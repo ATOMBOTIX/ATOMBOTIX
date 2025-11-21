@@ -5,24 +5,26 @@ Official repository for ATOMBOTIX organization homepage README
   <img src="https://raw.githubusercontent.com/ATOMBOTIX/ATOMBOTIX/main/profile/banner.png" alt="ATOMBOTIX Banner" width="100%">
 </p>
 
-<h1 align="center">ATOMBOTIX Robotics</h1>
+<h1 align="center">
+  ATOMBOTIX<br>
+  Your One-top Robot Building Partner
+</h1>
+
 
 <p align="center">
-<a href="https://www.atombtoix.com/download.html ">
-  <img src="https://img.shields.io/badge/Documentation-0A84FF?style=for-the-badge" />
+<a href="https://www.atombtoix.com/download.html">
+  <img src="https://img.shields.io/badge/Documentation-0A84FF?style=flat-square&color=%2311221D" />
 </a>
 <a href="https://www.atombotix.com">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website-000000?style=flat-square&color=%23253745" />
 </a>
 <a href="https://www.atombtoix.com/agvbody.html">
-  <img src="https://img.shields.io/badge/Products-34C759?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Products-34C759?style=flat-square&color=%234A5C8A" />
 </a>
 <a href="mailto:contact@atombotix.com">
-  <img src="https://img.shields.io/badge/Contact-FF375F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contact-FF375F?style=flat-square&color=%239BA8AB" />
 </a>
 </p>
-
-
 
 
 ---
