@@ -12,13 +12,13 @@ Official repository for ATOMBOTIX organization homepage README
 
 
 <p align="center">
-<a href="https://www.atombtoix.com/download.html">
+<a href="https://www.atombotix.com/download.html">
   <img src="https://img.shields.io/badge/Documentation-0A84FF?style=flat-square&color=%2311221D" />
 </a>
 <a href="https://www.atombotix.com">
   <img src="https://img.shields.io/badge/Website-000000?style=flat-square&color=%23253745" />
 </a>
-<a href="https://www.atombtoix.com/agvbody.html">
+<a href="https://www.atombotix.com/agvbody.html">
   <img src="https://img.shields.io/badge/Products-34C759?style=flat-square&color=%234A5C8A" />
 </a>
 <a href="mailto:contact@atombotix.com">
@@ -81,8 +81,8 @@ ATOMBOTIX provides two primary modular units that form the basis of our robotics
 ## 📚 Resources
 
 - **Website:** https://www.atombotix.com
-- **Documentation:** https://www.atombtoix.com/download.html 
-- **Products:** https://www.atombtoix.com/agvbody.html   
+- **Documentation:** https://www.atombotix.com/download.html 
+- **Products:** https://www.atombotix.com/agvbody.html   
 - **Email:** contact@atombotix.com  
 
 ---
