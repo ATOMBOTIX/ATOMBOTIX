@@ -7,7 +7,7 @@ Official repository for ATOMBOTIX organization homepage README
 
 <h1 align="center">
   ATOMBOTIX<br>
-  Your One-top Robot Building Partner
+  Your One-Stop Robot Building Partner
 </h1>
 
 
